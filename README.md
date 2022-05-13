@@ -1,2 +1,1 @@
-# Shared-Memory-and-Semaphores
-Shared Memory and Semaphores
+# Shared Memory and Semaphores in C programming
